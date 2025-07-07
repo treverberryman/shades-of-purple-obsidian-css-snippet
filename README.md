@@ -1,6 +1,7 @@
 # shades-of-purple-obsidian-css-snippet
 Quick snippet to enable Shades of Purple theme in Obsidian
 
+```css
 body {
   --background-primary: #1E1E3F;
   --text-normal: #C792EA;
@@ -14,3 +15,4 @@ body {
 .cm-s-obsidian .cm-variable { color: #C3E88D; }
 .cm-s-obsidian .cm-comment { color: #676E95; }
 .cm-s-obsidian .cm-error { color: #FF5370; }
+```
